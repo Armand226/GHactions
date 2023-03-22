@@ -1,6 +1,6 @@
 variable "name" {
   type    = string
-  default = "Armand"
+  default = "armand"
 }
 
 variable "acl" {
